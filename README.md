@@ -19,3 +19,5 @@ The data folder is divided into four folders:
 
 **Note**: To delineate, analyze, and model the watershed, we use the **WMF** (Watershed Modeling Framework) Python package (https://github.com/nicolas998/WMF).  
 
+The article can be downloaded at:
+*https://www.hydrol-earth-syst-sci-discuss.net/hess-2018-452/*
